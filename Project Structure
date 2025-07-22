@@ -1,0 +1,29 @@
+backend/
+├── config/
+│   └── db.js
+├── controllers/
+│   ├── authController.js
+│   ├── employeeController.js
+│   └── (others as needed)
+├── middleware/
+│   ├── authMiddleware.js
+│   └── roleCheck.js
+├── models/
+│   ├── index.js
+│   ├── user.js
+│   ├── role.js
+│   ├── permission.js
+│   ├── employee.js
+│   ├── department.js
+│   ├── designation.js
+│   ├── lead.js
+│   ├── project.js
+│   ├── task.js
+│   ├── invoice.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── employeeRoutes.js
+│   └── (others)
+├── .env
+├── app.js
+└── server.js
