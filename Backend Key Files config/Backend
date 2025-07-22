@@ -1,0 +1,4 @@
+cd backend
+npm install
+# Setup .env with your DB creds and JWT secret
+node server.js
