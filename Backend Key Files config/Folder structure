@@ -1,0 +1,15 @@
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Sidebar.jsx
+│   │   ├── Navbar.jsx
+│   │   └── PrivateRoute.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   ├── Employees.jsx
+│   │   └── Login.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── index.css
+├── tailwind.config.js
+├── package.json
